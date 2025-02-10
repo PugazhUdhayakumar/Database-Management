@@ -1,18 +1,18 @@
 # Warehouse Management System
 
-Project Overview
+#Project Overview
 
 The Warehouse Management System is designed to streamline warehouse operations from an admin's perspective. This web-based system provides a seamless interface for admin, suppliers, and customers to manage inventory efficiently. The system integrates HTML, CSS, and JavaScript for the frontend, with PHP and MySQL handling backend operations and database connectivity.
 
-Features
+#Features:
 
-Admin Interface
+#Admin Interface
 
-Manage inventory (add, update, delete products)
+          Manage inventory (add, update, delete products)
 
-View stock levels and warehouse capacity
+          View stock levels and warehouse capacity
 
-Monitor supplier deliveries and customer orders
+          Monitor supplier deliveries and customer orders
 
 Generate reports for stock management
 
